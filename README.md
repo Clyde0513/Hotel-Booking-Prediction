@@ -1,4 +1,5 @@
-🏨 Hotel Booking Analysis & Prediction
+
+# 🏨 Hotel Booking Analysis & Prediction
 A comprehensive analysis of hotel booking patterns using data science and machine learning techniques, implemented in Jupyter Notebook.
 
 📊 Project Overview
@@ -63,5 +64,8 @@ Contributions are welcome! Please:
 3. Commit your changes
 4. Push to the branch
 5. Submit a pull request
+
+📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ⭐ Star this repo if you find it useful!
